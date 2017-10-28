@@ -1,0 +1,658 @@
+/*---------------------------------------------------------
+===========================Font SF=========================
+-----------------------------------------------------------*/
+/** Black */
+@font-face {
+  font-family: "SF Display";
+  font-weight: 900;
+  src: url("https://sf.abarba.me/SF-UI-Display-Black.otf");
+}
+
+/** Bold */
+@font-face {
+  font-family: "SF Display";
+  font-weight: 700;
+  src: url("https://sf.abarba.me/SF-UI-Display-Bold.otf");
+}
+
+/** Heavy */
+@font-face {
+  font-family: "SF Display";
+  font-weight: 800;
+  src: url("https://sf.abarba.me/SF-UI-Display-Heavy.otf");
+}
+
+/** Light */
+@font-face {
+  font-family: "SF Display";
+  font-weight: 200;
+  src: url("https://sf.abarba.me/SF-UI-Display-Light.otf");
+}
+
+/** Medium */
+@font-face {
+  font-family: "SF Display";
+  font-weight: 500;
+  src: url("https://sf.abarba.me/SF-UI-Display-Medium.otf");
+}
+
+/** Regular */
+@font-face {
+  font-family: "SF Display";
+  font-weight: 400;
+  src: url("https://sf.abarba.me/SF-UI-Display-Regular.otf");
+}
+
+/** Semibold */
+@font-face {
+  font-family: "SF Display";
+  font-weight: 600;
+  src: url("https://sf.abarba.me/SF-UI-Display-Semibold.otf");
+}
+
+/** Thin */
+@font-face {
+  font-family: "SF Display";
+  font-weight: 300;
+  src: url("https://sf.abarba.me/SF-UI-Display-Thin.otf");
+}
+
+/** Ultralight */
+@font-face {
+  font-family: "SF Display";
+  font-weight: 100;
+  src: url("https://sf.abarba.me/SF-UI-Display-Ultralight.otf");
+}
+
+/*---------------------------------------------------------------------------*
+ * SF UI Text
+ *---------------------------------------------------------------------------*/
+
+/** Bold */
+@font-face {
+  font-family: "SF Text";
+  font-weight: 700;
+  src: url("https://sf.abarba.me/SF-UI-Text-Bold.otf");
+}
+
+/** Bold Italic */
+@font-face {
+  font-family: "SF Text";
+  font-weight: 700;
+  font-style: italic;
+  src: url("https://sf.abarba.me/SF-UI-Text-BoldItalic.otf");
+}
+
+/** Heavy */
+@font-face {
+  font-family: "SF Text";
+  font-weight: 800;
+  src: url("https://sf.abarba.me/SF-UI-Text-Heavy.otf");
+}
+
+/** Heavy Italic */
+@font-face {
+  font-family: "SF Text";
+  font-weight: 800;
+  font-style: italic;
+  src: url("https://sf.abarba.me/SF-UI-Text-HeavyItalic.otf");
+}
+
+/** Light */
+@font-face {
+  font-family: "SF Text";
+  font-weight: 200;
+  src: url("https://sf.abarba.me/SF-UI-Text-Light.otf");
+}
+
+/** Light Italic */
+@font-face {
+  font-family: "SF Text";
+  font-weight: 200;
+  font-style: italic;
+  src: url("https://sf.abarba.me/SF-UI-Text-HeavyItalic.otf");
+}
+
+/** Medium */
+@font-face {
+  font-family: "SF Text";
+  font-weight: 500;
+  src: url("https://sf.abarba.me/SF-UI-Text-Medium.otf");
+}
+
+/** Medium Italic */
+@font-face {
+  font-family: "SF Text";
+  font-weight: 500;
+  font-style: italic;
+  src: url("https://sf.abarba.me/SF-UI-Text-MediumItalic.otf");
+}
+
+/** Regular */
+@font-face {
+  font-family: "SF Text";
+  font-weight: 400;
+  src: url("https://sf.abarba.me/SF-UI-Text-Regular.otf");
+}
+
+/** Regular Italic */
+@font-face {
+  font-family: "SF Text";
+  font-weight: 400;
+  font-style: italic;
+  src: url("https://sf.abarba.me/SF-UI-Text-RegularItalic.otf");
+}
+
+/** Semibold */
+@font-face {
+  font-family: "SF Text";
+  font-weight: 600;
+  src: url("https://sf.abarba.me/SF-UI-Text-Semibold.otf");
+}
+
+/** Semibold Italic */
+@font-face {
+  font-family: "SF Text";
+  font-weight: 600;
+  font-style: italic;
+  src: url("https://sf.abarba.me/SF-UI-Text-SemiboldItalic.otf");
+}
+
+/** Ultrathin */
+@font-face {
+  font-family: "SF Text";
+  font-weight: 100;
+  src: url("https://sf.abarba.me/SF-UI-Text-Ultrathin.otf");
+}
+
+/** Ultrathin Italic */
+@font-face {
+  font-family: "SF Text";
+  font-weight: 100;
+  font-style: italic;
+  src: url("https://sf.abarba.me/SF-UI-Text-UltrathinItalic.otf");
+}
+
+/*---------------------------------------------------------------------------*
+ * SF Mono
+ *---------------------------------------------------------------------------*/
+
+/** Bold */
+@font-face {
+  font-family: "SF Mono";
+  font-weight: 700;
+  src: url("https://sf.abarba.me/SFMono-Bold.otf");
+}
+
+/** Bold Italic */
+@font-face {
+  font-family: "SF Mono";
+  font-weight: 700;
+  font-style: italic;
+  src: url("https://sf.abarba.me/SFMono-BoldItalic.otf");
+}
+
+/** Heavy */
+@font-face {
+  font-family: "SF Mono";
+  font-weight: 800;
+  src: url("https://sf.abarba.me/SFMono-Heavy.otf");
+}
+
+/** Heavy Italic */
+@font-face {
+  font-family: "SF Mono";
+  font-weight: 800;
+  font-style: italic;
+  src: url("https://sf.abarba.me/SFMono-HeavyItalic.otf");
+}
+
+/** Light */
+@font-face {
+  font-family: "SF Mono";
+  font-weight: 200;
+  src: url("https://sf.abarba.me/SFMono-Light.otf");
+}
+
+/** Light Italic */
+@font-face {
+  font-family: "SF Mono";
+  font-weight: 200;
+  font-style: italic;
+  src: url("https://sf.abarba.me/SFMono-HeavyItalic.otf");
+}
+
+/** Medium */
+@font-face {
+  font-family: "SF Mono";
+  font-weight: 500;
+  src: url("https://sf.abarba.me/SFMono-Medium.otf");
+}
+
+/** Medium Italic */
+@font-face {
+  font-family: "SF Mono";
+  font-weight: 500;
+  font-style: italic;
+  src: url("https://sf.abarba.me/SFMono-MediumItalic.otf");
+}
+
+/** Regular */
+@font-face {
+  font-family: "SF Mono";
+  font-weight: 400;
+  src: url("https://sf.abarba.me/SFMono-Regular.otf");
+}
+
+/** Regular Italic */
+@font-face {
+  font-family: "SF Mono";
+  font-weight: 400;
+  font-style: italic;
+  src: url("https://sf.abarba.me/SFMono-RegularItalic.otf");
+}
+
+/** Semibold */
+@font-face {
+  font-family: "SF Mono";
+  font-weight: 600;
+  src: url("https://sf.abarba.me/SFMono-Semibold.otf");
+}
+
+/** Semibold Italic */
+@font-face {
+  font-family: "SF Mono";
+  font-weight: 600;
+  font-style: italic;
+  src: url("https://sf.abarba.me/SFMono-SemiboldItalic.otf");
+}
+/*-----------------------------------------------------------------
+==========================Custom CSS==============================
+-----------------------------------------------------------------*/
+/*Reset all padding and margin*/
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	font-family: "SF Text", sans-serif;
+	font-weight: 100;
+}
+/*---------------------------------------------------------------
+========================Top navigation bar=======================
+----------------------------------------------------------------*/
+
+ul {
+	list-style: none;
+}
+
+i {
+	padding: 3px;
+	margin-top: 13px;
+}
+
+.top-section-tier {
+	min-width: 909px;
+}
+
+
+
+.top-nav-item a:hover {
+	color: #bfbfbf;
+}
+
+.top-nav-links {
+	margin: auto;
+	text-align: center;
+}
+
+.top-nav-shop {
+	background-color: #32302e;
+	width: 100%;
+	height: 48px;
+	position: fixed;
+	overflow: auto;
+	z-index: 9999;
+	max-height: 48px;
+}
+
+.top-nav-item {
+	display: inline-block;
+}
+
+.top-nav-list a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 14px;
+	padding: 0 36px;
+	line-height: 48px;
+	font-weight: 100;
+}
+
+.top-nav-list {
+	margin: auto;
+}
+/*---------------------------------------------------------------------------
+==============================Top Section 1==================================
+-----------------------------------------------------------------------------*/
+/*------------------------TOP SECTION TIER BACKGROUND COLORS---------------------------*/
+.tier-one {
+	background-color: #f8eee8;
+}
+
+.tier-two {
+	background-color: #f9f9f9;
+}
+
+.tier-three {
+	background-color: #f9f9f9;
+}
+
+/*----------------------TOP SECTION TIER POSITIONS AND FONT STYLING---------------*/
+.tier-two, .tier-three {
+	border-top: 12px solid #fff;
+}
+
+.top-section {
+	padding-top: 56px; 
+	text-align: center;
+}
+
+.text-top-wrapper {
+	padding-top: 56px;
+}
+h2 {
+	font-size: 56px;
+	font-weight: 600;
+	color: #000;
+
+}
+h3 {
+	font-size: 27px;
+	margin-top: 6px;
+	font-weight: 400;
+	color: #000;
+	padding-bottom: 40px;
+}
+.watch-series {
+	color: #c5191a;
+	font-size: 27px;
+}
+
+/*------------------------Images for top secton------------------------*/
+.tier-one-img {
+	background-image: url("../img/iphone8.jpg");
+	width: 561px;
+	height: 395px;
+	margin: auto;
+	background-position-y: bottom; 
+
+}
+
+.tier-two-img {
+	background-image: url("../img/iphonex.jpg");
+	width: 909px;
+	height: 194px;
+	margin: auto;
+	background-position-y: top;
+}
+
+.tier-three-img {
+	background-image: url("../img/watch.jpg");
+	width: 767px;
+	height: 341px;
+	margin: auto;
+	background-position-y: top;
+}
+
+/*---------------------------------------------------------------
+========================BOTTOM SECTION===========================
+----------------------------------------------------------------*/
+/*--------------------Sizing and Display For Bottom Tiers----------------*/
+
+.bottom-item-wrap1 {
+	width: 50%;
+	height: 598px;
+	float: left;
+	position: relative;
+	text-align: center;
+	box-sizing: border-box;
+	border: 6px solid #fff;
+	border-top-width: 12px;
+}
+
+.bottom-item-wrap2 {
+	width: 50%;
+	height: 598px;
+	float: left;
+	position: relative;
+	text-align: center;
+	box-sizing: border-box;
+	border: 6px solid #fff;
+	border-bottom-width: 12px;
+}
+
+.bottom-item-postion1 {
+	border-left-width: 12px;
+	overflow: auto;
+}
+
+.bottom-item-postion2 {
+	border-right-width: 12px;
+	overflow: auto;
+}
+
+/*---------------------IMAGES FOR BOTTOM TIERS--------------------*/
+
+.tier-four-img {
+	object-fit: contain;
+	background-position-x: center;
+	height: 539px;
+	background-image: url("../img/tv.jpg");
+	min-width: 510px;
+}
+
+.tier-five-img {
+	width: 510px;
+	height: 146px;
+	background-image: url("../img/ipadpro.jpg");
+	margin: 130px auto 0; 
+}
+
+.tier-six-img {
+	width: 671px;
+	height: 372px;
+	background-image: url("../img/accessories.jpg");
+	margin: 66px auto 0;
+}
+
+.tier-seven-img {
+	object-fit: contain;
+	background-position-x: center;
+	height: 539px;
+	background-image: url("../img/chicago.jpg");
+	min-width: 510px;
+}
+
+/*----------------------Bottom Unit Colors and Sizing------------------------*/
+
+h4 {
+	font-size: 56px;
+	color: #000;
+	font-weight: 600;
+	min-width: 510px;
+}
+
+.unit-header {
+	color: #fff;
+	font-size: 27px;
+	font-weight: 400;
+}
+
+.text-bottom-wrapper {
+	padding-top: 40px;
+}
+h5 {
+	margin-top: 6px;
+	font-size: 27px;
+	min-width: 510px;
+}
+
+.bottom-item-background3 {
+	width: 100%
+	height: 598px;
+	background-color: #f9f9f9;
+}
+
+.bottom-item-background2 {
+	width: 100%
+	height: 598px;
+	background-color: #f9f9f9;
+}
+
+/*----------------------------------------------------------------
+============================Bottom Directory======================
+-----------------------------------------------------------------*/
+
+.directory, .directory-column {
+	display: inline-block;
+	float: left;
+}
+
+footer {
+	background-color: #f0f0f0;
+	width: 100%;
+	min-width: 1024px;
+}
+
+.bottom-nav-links a {
+	color: #333;
+	font-size: 1em;
+	line-height: 1.75em;
+	margin: 0 auto;
+}
+
+.bottom-nav-links a:hover {
+	text-decoration: underline;
+}
+
+.directory-wrap {
+	text-align: center;
+}
+.bottom-nav-links li {
+	color: #333;
+	font-weight: 600;
+	font-size: 11px;
+	min-width: 200px;
+}
+
+.bottom-nav-links ul {
+	display: inline-block;
+	position: relative;
+	margin-right: 20px;
+}
+
+.bottom-nav-links {
+	padding-top: 40px;
+	box-sizing: border-box;
+	text-align: left;
+	display: inline-block;
+	width: 60%;
+}
+
+.directory-column {
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+	width: 20%;
+}
+
+/*-------------------------------------------------------------------
+==============BOTTOM FOOTER DIRECTORY AND LEGAL NOTICES=================
+-------------------------------------------------------------------*/
+
+.footer {
+	width: 100%;
+	text-align: center;
+	margin: 0 0 0 20%;
+	display: inline-block;
+	position: relative;
+	padding: 34px 0 21px 0;
+	color: #888;
+	font-size: 11px;
+}
+
+.legal-wrap,
+.footer-legal {
+	text-align: left;
+	width: 60%;
+	padding-bottom: 6px;
+	margin-bottom: 7px;
+	box-sizing: content-box;
+	display: inline-block;
+	float: left;
+}
+
+.footer-shop a { 
+	color: #2e80cb;
+}
+
+a.legal-links {
+	padding: 0 10px;
+	margin-right: 10px;
+	color: #333;
+	border-right: 1px solid #d0d0d0;
+}
+div.legal,
+.footer-locale {
+	display: inline-block;
+	position: relative;
+	float: left;
+}
+
+a.legal-links1 {
+	padding-right: 10px;
+	margin-right: 10px;
+	border-right: 1px solid #d0d0d0;
+}
+
+.footer-locale-flag {
+	background-image: url("../img/flag.png");
+	background-repeat: no-repeat;
+	height: 16px;
+	width: 16px;
+	padding-right: 5px;
+	background-position: left center;
+	float: left;
+	display: inline-block;
+	position: relative;
+	margin-top: -1px;
+}
+
+.footer-locale {
+	float: right;
+}
+
+.footer-locale a,
+.footer-legal-links a {
+	color: #333;
+}
+
+.legal-bottom {
+	float: left;
+}
+
+.legal-links5 {
+	padding-left: 
+}
+
+.footer-copyright {
+	padding-right: 30px;
+}
+
+.legal-wrap {
+	border-bottom: 1px solid #d0d0d0;
+}
+
+.footer a:hover {
+	text-decoration: underline;
+}
